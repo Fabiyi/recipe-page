@@ -17,16 +17,16 @@ body{
     margin: 100px auto;
     /* using margin to center the project it based on left and right */
     margin: 100px auto;
-    border-radius: 20;
     display: flex;
     justify-content: center;
-    padding: 50px 50px;
+    padding: 50px 20px;
+    border-radius: 20;
 }
-imgCtn{
+.imgctn{
     width: 500px;
-    border: radius 10px; ;
+    border-radius: 20px;
 }
-imgCtn img{
+.imgctn img{
     width: 100%;
     height: 100%;
     border-radius: 20px;
